@@ -2,7 +2,7 @@
 
 Which East African countries host the most refugees, and who carries the heaviest burden relative to their population? An analysis of UNHCR and World Bank data, 2010 to 2025, with an interactive dashboard. Built with Python, pandas, Plotly and Streamlit.
 
-Live app: (link added after deployment)
+Live app: ([link added after deployment](https://east-africa-refugee-hosting-wyusqrnzayuvlzf6y796xn.streamlit.app/))
 
 ![Dashboard showing refugees per 1,000 inhabitants in East Africa, 2025](app-ranking.png)
 
