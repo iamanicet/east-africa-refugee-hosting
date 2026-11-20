@@ -4,7 +4,7 @@ Which East African countries host the most refugees, and who carries the heavies
 
 Live app: ([link added after deployment](https://east-africa-refugee-hosting-wyusqrnzayuvlzf6y796xn.streamlit.app/))
 
-![Dashboard showing refugees per 1,000 inhabitants in East Africa, 2025](app-ranking.png)
+![Dashboard showing refugees per 1,000 inhabitants in East Africa, 2025](app-ranking.png.png)
 
 ## Summary
 
